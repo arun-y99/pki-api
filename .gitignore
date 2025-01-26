@@ -1,0 +1,7 @@
+/pki/login/
+/pki/pki/__pycache__/
+/pki/main/__pycache__/
+/pki/main/keys/
+/pki/db.sqlite3
+/venv/
+/pki/main/x509sign.py
